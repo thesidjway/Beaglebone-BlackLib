@@ -1,6 +1,6 @@
 #include <iostream>
 #include <unistd.h>
-#include "BlackGPIO.h" //place this cpp in same folder as BlackLib
+#include "BlackGPIO.h" //place this cpp in same folder as BlackLib, along with all other files
 
 using namespace std;
 using namespace BlackLib; //part of BlackLib
