@@ -18,5 +18,5 @@ return 0;
 }
 
 /* Code must be run in sudo environment else the led won't toggle. The compilation command is:
-g++ BlackGPIO.cpp sidGPIO.cpp BlackCore.cpp -std=c++0x
+g++ BlackGPIO.cpp initGPIO.cpp BlackCore.cpp -std=c++0x
 */
